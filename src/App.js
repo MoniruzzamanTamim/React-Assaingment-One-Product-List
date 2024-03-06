@@ -77,8 +77,8 @@ const products = [
     category: 'jewelery',
     image: 'https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg',
     rating: {
-      rate: 3.9,
-      count: 70
+      rate: 3.4,
+      count: 78
     }
   }
 ];
